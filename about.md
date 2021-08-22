@@ -34,7 +34,7 @@ There are two excellent NLP textbooks that are freely available online. Readings
 
 ## Prerequisites
 
-This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus.  Having taken a prior machine learning course would be very helpful.
+This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus. Having taken a prior machine learning course would be very helpful.
 
 ## Assignments / Grading
 
@@ -42,7 +42,7 @@ Graded work will include both written and programming assignments. Assignments s
 
 ### Programming Assignments (Projects) - 40%
 
-We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline. If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [PyTorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline. If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
 ### Written Assignments (Problem Sets) - 20%
 
