@@ -65,4 +65,5 @@ TBD
 : [Dialogue](https://cocoxu.github.io/CS7650_fall2021/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
-TBD : Final Project Reports Due (submit on Gradescope)
+TBD 
+: Final Project Reports Due (submit on Gradescope)
