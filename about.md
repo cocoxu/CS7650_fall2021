@@ -16,18 +16,50 @@ description: >-
 
 ---
 
-## About
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
-
 ## Lecture
+Mondays, Wednesdays 3:30-4:45pm
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+## Textbook(s)
+
+There are two excellent NLP textbooks that are freely available online. Readings will be assigned from both.  There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
+
+- [Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/)
+- [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- There will be other assigned readings as well.
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- [Piazza](https://piazza.com/class/ksjq7xenrbp3g5)
+- [Gradescope](https://www.gradescope.com/courses/292811)
 
-## Assignments
+## Prerequisites
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus. Having taken a prior machine learning course would be very helpful.
+
+## Assignments / Grading
+
+Graded work will include both written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.  Each student will have 3 flexible days to turn in late homework throughout the semester. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.  Please email your homework to the instructor in case of any technical issues with submission.
+
+### Programming Assignments (Projects) - 40%
+
+We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [PyTorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline. If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+
+### Written Assignments (Problem Sets) - 20%
+
+The written assignments will mostly be mathematical.  You can scan and upload your solution to Gradescope.  Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
+
+### Midterm Exam - 15%
+
+The midterm will be similar in format to the written assignments (problem sets), but will be more substantial.
+
+### Participation - 5%
+
+You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class.
+
+### Final Project - 20%
+
+The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. The final project report should be 4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
+
+## Academic Integrity
+
+Any assignment or exam that you hand in must be your own work (with the exception of group projects). However, talking with others to better understand the material is strongly encouraged. Copying a solution or letting someone copy your solution is considered cheating. Everything you hand in must be your own words. Code you hand in must be written by you, with the exception of any code provided as part of the assignment. Any collaboration during an exam is considered cheating. Any student who is caught cheating will be reported to the Office of Student Integrity. Please don't take a chance - if you are having trouble understanding the material, let us know and we will be happy to help.
