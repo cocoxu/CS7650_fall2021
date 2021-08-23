@@ -38,7 +38,7 @@ TBD
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
-: [Statistical Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec10-mt1.pdf) (Project 2 Due)
+: [Statistical Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec10-mt1.pdf) 
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
@@ -46,7 +46,7 @@ TBD
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
-: [Machine Translation Part 2](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-mt2.pdf)
+: [Neural Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
@@ -58,11 +58,11 @@ TBD
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
-: [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) (Project 3 Due)
+: [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 TBD
 : [Dialogue](https://cocoxu.github.io/CS7650_fall2021/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
-: Final Project Reports Due (submit on Gradescope)
+TBD : Final Project Reports Due (submit on Gradescope)
