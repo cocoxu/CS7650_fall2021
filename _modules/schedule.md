@@ -5,12 +5,12 @@ Aug 23
 : [Course Introduction](https://cocoxu.github.io/CS7650_fall2021/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Aug 25
+TBD
 : [Machine Learning](https://cocoxu.github.io/CCS7650_fall2021/lec2-ml.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Aug 30
-: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) (Problem Set 1 due)
+TBD
+: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
@@ -18,7 +18,7 @@ TBD
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBD
-: [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-seq1.pdf) ([Project 1 due](https://colab.research.google.com/drive/1ulvIvI5LWWGrk1P0gkcMY2X3tmJfUcZN?usp=sharing))
+: [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-seq1.pdf) 
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 TBD
@@ -26,7 +26,7 @@ TBD
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
-: [Word Embeddings](https://cocoxu.github.io/CS7650_fall2021/slides/lec7-nn2.pdf) (Problem Set 2 due)
+: [Word Embeddings](https://cocoxu.github.io/CS7650_fall2021/slides/lec7-nn2.pdf) 
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBD
