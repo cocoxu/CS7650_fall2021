@@ -5,8 +5,8 @@ Aug 23
 : [Course Introduction](https://cocoxu.github.io/CS7650_fall2021/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBD
-: [Machine Learning](https://cocoxu.github.io/CCS7650_fall2021/lec2-ml.pdf) 
+Aug 25
+: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/lec2-ml.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
