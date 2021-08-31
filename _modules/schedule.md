@@ -14,7 +14,7 @@ Aug 30
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 1
-: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) ([Problem Set 1 due](https://cocoxu.github.io/CS7650_fall2021/slides/CS7650_Fall2021_Problem_Set_1.pdf))
+: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
