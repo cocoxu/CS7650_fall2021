@@ -17,9 +17,15 @@ Sep 1
 : [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBD
+Sep 6
+: no class - Labor Day
+
+Sep 8
 : [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Sep 20
+: **[Project 1 due](https://colab.research.google.com/drive/1QEPgC2FvXCvtZy2o4YBIkRPPLoG4gHJx)**
 
 TBD
 : [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2021/slides/lec6-nn.pdf)
