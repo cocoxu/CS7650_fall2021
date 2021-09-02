@@ -21,7 +21,7 @@ Sep 6
 : no class - Labor Day
 
 Sep 8
-: [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
+: [Machine Learning - part 2](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sep 20
