@@ -24,12 +24,13 @@ Sep 8
 : [Machine Learning - part 2](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Sep 13
+: [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-nn.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+
 Sep 20
 : **[Project 1 due](https://colab.research.google.com/drive/1QEPgC2FvXCvtZy2o4YBIkRPPLoG4gHJx)**
-
-TBD
-: [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2021/slides/lec6-nn.pdf)
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBD
 : [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-seq1.pdf) 
