@@ -28,17 +28,17 @@ Sep 13
 : [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
+Sep 15
+: [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec5-seq1.pdf) 
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+Sep 20
+: [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2021/slides/lec6-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 
 Sep 20
 : **[Project 1 due](https://colab.research.google.com/drive/1QEPgC2FvXCvtZy2o4YBIkRPPLoG4gHJx)**
-
-TBD
-: [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
-
-TBD
-: [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2021/slides/lec5-seq2.pdf)
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
 : [Word Embeddings](https://cocoxu.github.io/CS7650_fall2021/slides/lec7-nn2.pdf) 
