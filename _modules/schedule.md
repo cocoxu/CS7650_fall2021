@@ -7,30 +7,30 @@ Aug 23
 
 Aug 25
 : [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Aug 30
 : [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) ([Problem Set 1 due](https://cocoxu.github.io/CS7650_fall2021/slides/CS7650_Fall2021_Problem_Set_1.pdf))
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 1
 : [Machine Learning](https://cocoxu.github.io/CS7650_fall2021/slides/lec2-ml.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 6
 : no class - Labor Day
 
 Sep 8
 : [Machine Learning - part 2](https://cocoxu.github.io/CS7650_fall2021/slides/lec3-mcc.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 13
 : [Neural Networks in NLP](https://cocoxu.github.io/CS7650_fall2021/slides/lec4-nn.pdf)
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Sep 15
 : [Sequence Models](https://cocoxu.github.io/CS7650_fall2021/slides/lec5-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Sep 20
 : [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2021/slides/lec6-seq2.pdf)
@@ -42,7 +42,7 @@ Sep 20
 
 TBD
 : [Word Embeddings](https://cocoxu.github.io/CS7650_fall2021/slides/lec7-nn2.pdf) 
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBD
 : [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec8-nn3.pdf)
