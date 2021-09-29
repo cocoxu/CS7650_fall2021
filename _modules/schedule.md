@@ -47,12 +47,12 @@ Sep 27
 : [Word Embeddings](https://cocoxu.github.io/CS7650_fall2021/slides/lec7-nn2.pdf) 
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
-Sep 30
-: **[Problem Set 2 due](https://github.com/cocoxu/CS7650_Projects/raw/main/problem_set_2/CS7650_Fall2021_Problem_Set_2.pdf)** [(template)](https://github.com/cocoxu/CS7650_Projects/blob/main/problem_set_2/ps2_latex_template.tex)
-
-TBD
+Sep 29
 : [Recurrent Neural Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec8-nn3.pdf)
   : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Sep 30
+: **[Problem Set 2 due](https://github.com/cocoxu/CS7650_Projects/raw/main/problem_set_2/CS7650_Fall2021_Problem_Set_2.pdf)** [(template)](https://github.com/cocoxu/CS7650_Projects/blob/main/problem_set_2/ps2_latex_template.tex)
 
 TBD
 : [Convolutional Neural Networks and Neural CRFs](https://cocoxu.github.io/CS7650_fall2021/slides/lec9-nn4.pdf)
