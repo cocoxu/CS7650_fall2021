@@ -65,12 +65,12 @@ Oct 13
 : [Statistical Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec10-mt1.pdf) 
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
-Oct 15
-: **[Project 2 due](https://colab.research.google.com/drive/195wqm4BSTagmBmckfNVMv17n9e_qMCn_)** [(github)](https://github.com/cocoxu/CS7650_Projects)
-
 Oct 18
-: [Encoder-Decoder Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec11-seqseq2.pdf)
+: [Encoder-Decoder Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec11-seqseq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Oct 19
+: **[Project 2 due](https://colab.research.google.com/drive/195wqm4BSTagmBmckfNVMv17n9e_qMCn_)** [(github)](https://github.com/cocoxu/CS7650_Projects)
 
 TBD
 : [Neural Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-mt2.pdf)
