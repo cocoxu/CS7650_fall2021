@@ -66,7 +66,7 @@ Oct 13
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Oct 18
-: [Encoder-Decoder Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec11-seqseq.pdf)
+: [Encoder-Decoder Networks](https://cocoxu.github.io/CS7650_fall2021/slides/lec11-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 19
