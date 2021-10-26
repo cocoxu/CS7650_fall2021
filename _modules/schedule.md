@@ -73,15 +73,19 @@ Oct 19
 : **[Project 2 due](https://colab.research.google.com/drive/195wqm4BSTagmBmckfNVMv17n9e_qMCn_)** [(github)](https://github.com/cocoxu/CS7650_Projects)
 
 Oct 20
-: [Neural Machine Translation + Copy/Pointer Network](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-seq2seq-part2.pdf)
+: [Neural Machine Translation](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-seq2seq-part2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Oct 25
+: [Copy/Pointer Network + Self-Attention](https://cocoxu.github.io/CS7650_fall2021/slides/lec12-seq2seq2.pdf)
+  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf)
 
 Oct 30
 : [withdraw deadline](https://registrar.gatech.edu/registration/withdrawal-and-dropping-courses) 
 
 TBD
 : [Transformer + Course Project](https://cocoxu.github.io/CS7650_fall2021/slides/lec13-transformer.pdf)
-  : [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/) [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
+  : [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
 
 TBD
