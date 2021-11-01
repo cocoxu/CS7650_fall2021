@@ -55,7 +55,7 @@ Sep 30
 : **[Problem Set 2 due](https://github.com/cocoxu/CS7650_Projects/raw/main/problem_set_2/CS7650_Fall2021_Problem_Set_2.pdf)** [(template)](https://github.com/cocoxu/CS7650_Projects/blob/main/problem_set_2/ps2_latex_template.tex)
 
 Oct 4
-: [Convolutional Neural Networks and Neural CRFs](https://cocoxu.github.io/CS7650_fall2021/slides/lec9-nn4.pdf)
+: [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2021/slides/lec9-nn4.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Oct 11
@@ -84,16 +84,13 @@ Oct 27
 : [Transformer + Course Project](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-transformer.pdf)
   : [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
 
-Oct 30
-: [withdraw deadline](https://registrar.gatech.edu/registration/withdrawal-and-dropping-courses) 
+Nov 1
+: [Information Extraction + Semantic Role Labeling](https://cocoxu.github.io/CS7650_fall2021/slides/lec15-iesrl.pdf)
+  : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
 : [Pretrained Transformers](https://cocoxu.github.io/CS7650_fall2021/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
-
-TBD
-: [Information Extraction and Semantic Role Labeling](https://cocoxu.github.io/CS7650_fall2021/slides/lec13-iesrl.pdf)
-  : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 TBD
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
