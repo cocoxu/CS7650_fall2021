@@ -88,9 +88,14 @@ Nov 1
 : [Information Extraction + Semantic Role Labeling](https://cocoxu.github.io/CS7650_fall2021/slides/lec15-iesrl.pdf)
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBD
-: [Pretrained Transformers](https://cocoxu.github.io/CS7650_fall2021/slides/lec13-bert.pdf)
+Nov 5
+: [Pretrained Transformers](https://cocoxu.github.io/CS7650_fall2021/slides/lec16-pt1.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
+Nov 8
+: [Pretrained Transformers (part 2)](https://cocoxu.github.io/CS7650_fall2021/slides/lec17-pt2.pdf)
+  : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
+
 
 TBD
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
