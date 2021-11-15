@@ -100,6 +100,9 @@ Nov 10
 : [Dialogue](https://cocoxu.github.io/CS7650_fall2021/slides/lec18-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
+Nov 15
+: guest lecture by Kenton Lee (Google AI) "Composing Tools for New Capabilities in NLP"
+
 TBD
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
