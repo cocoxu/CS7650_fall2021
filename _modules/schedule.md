@@ -101,7 +101,10 @@ Nov 10
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Nov 15
-: guest lecture by Kenton Lee (Google AI) "Composing Tools for New Capabilities in NLP"
+: guest lecture - [Kenton Lee (Google AI)](https://kentonl.com/) "Composing Tools for New Capabilities in NLP"
+
+Nov 17
+: guest lecture - [Avi Sil (IBM Research)](https://researcher.watson.ibm.com/researcher/view.php?person=us-avi) "Multilingual Multi-domain Question Answering"
 
 TBD
 : [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
