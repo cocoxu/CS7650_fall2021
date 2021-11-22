@@ -109,9 +109,12 @@ Nov 17
 Nov 18
 : **[Project 3 due](https://colab.research.google.com/drive/1N-2kt9jEalNunVWwBns8HR2G_Cd1Wwiq?usp=sharing)** [(github)](https://github.com/cocoxu/CS7650_Projects)
 
-TBD
-: [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec14-rc.pdf) 
+Nov 22
+: [Question Answering](https://cocoxu.github.io/CS7650_fall2021/slides/lec19-qa.pdf) 
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+
+Nov 24
+: no class - Thanksgiving 
 
 Dec 13 
 : Final Project Reports Due (submit on Gradescope - no late days allowed)
