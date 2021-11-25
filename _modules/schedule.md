@@ -116,5 +116,8 @@ Nov 22
 Nov 24
 : no class - Thanksgiving 
 
+Nov 29
+: guest lecture - [Sudha Rao (Microsoft Research)](https://www.microsoft.com/en-us/research/people/sudhra/) "Teaching Machines to Ask Questions that Identify Missing Information in Different Scenarios"
+
 Dec 13 
 : Final Project Reports Due (submit on Gradescope - no late days allowed)
