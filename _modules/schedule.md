@@ -93,7 +93,7 @@ Nov 5
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Nov 8
-: [Pretrained Language Models (part 2)](https://cocoxu.github.io/CS7650_fall2021/slides/lec17-pt2.pdf)
+: [Pretrained Language Models & Ethics (part 2)](https://cocoxu.github.io/CS7650_fall2021/slides/lec17-pt2.pdf)
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
 Nov 10
@@ -118,6 +118,13 @@ Nov 24
 
 Nov 29
 : guest lecture - [Sudha Rao (Microsoft Research)](https://www.microsoft.com/en-us/research/people/sudhra/) "Teaching Machines to Ask Questions that Identify Missing Information in Different Scenarios"
+
+Dec 1
+: [	Multilingual / Cross-lingual Models (part 2)](https://cocoxu.github.io/CS7650_fall2021/slides/lec20-multilingual.pdf)
+  : [How multilingual is Multilingual BERT?](https://arxiv.org/pdf/1906.01502.pdf) 
+
+Dec 6
+: no class 
 
 Dec 13 
 : Final Project Reports Due (submit on Gradescope - no late days allowed)
